@@ -7,6 +7,6 @@ public class Controller {
 
 	
 	public String hello() {
-		return "hello world";
+		return "hello New World";
 	}
 }
