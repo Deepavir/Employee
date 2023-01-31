@@ -7,6 +7,6 @@ public class Controller {
 
 	
 	public String hello() {
-		return "hello New World,this is third commit in second branch";
+		return "hello New World,this is third commit in second branch to practice pull request";
 	}
 }
